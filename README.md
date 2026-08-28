@@ -18,10 +18,9 @@ Software developer focused on backend systems from China.
 
 ## Featured Projects
 
-- [Project A](链接) — 一句话说明项目价值
-- [Project B](链接) — 一句话说明你的贡献
-- [Project C](链接) — 一句话说明技术亮点
+- [lease](https://github.com/CzlRx/lease) — An apartment rental platform based on Spring Boot, MyBatis-Plus, MySQL, Redis, and MinIO
+- [Jigsaw-puzzle-game](https://github.com/CzlRx/Jigsaw-puzzle-game) — A jigsaw puzzle game developed with Java GUI
 
 ## Connect
 
-[Website](链接) · [Email](chen2799140721@outlook.com)
+[Website](null) · [Email](chen2799140721@outlook.com)
