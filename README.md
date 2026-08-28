@@ -19,7 +19,7 @@ Software developer focused on backend systems from China.
 ## Featured Projects
 
 - [lease](https://github.com/CzlRx/lease) — An apartment rental platform based on Spring Boot, MyBatis-Plus, MySQL, Redis, and MinIO
-- [Jigsaw-puzzle-game](https://github.com/CzlRx/Jigsaw-puzzle-game) — A jigsaw puzzle game developed with Java GUI
+- [Jigsaw-puzzle-game](https://github.com/CzlRx/Jigsaw-puzzle-game) — A jigsaw puzzle game built with Java Swing
 
 ## Connect
 
