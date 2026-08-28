@@ -1,17 +1,20 @@
-# Hi, I'm Your Name 👋
+# Hi, I'm CzlRx 👋
 
-Software developer focused on React, TypeScript, and backend systems.
+Software developer focused on backend systems from China.
 
 ## About Me
 
-- 🔭 Currently building ...
-- 🌱 Learning ...
-- 💬 Ask me about ...
-- 📫 Contact: ...
+- 🔭 Currently building my personal blog
+- 🌱 Currently learning about AI Agents and agentic systems
 
 ## Tech Stack
 
-TypeScript · React · Node.js · PostgreSQL · Docker
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Featured Projects
 
@@ -21,4 +24,4 @@ TypeScript · React · Node.js · PostgreSQL · Docker
 
 ## Connect
 
-[Website](链接) · [LinkedIn](链接) · [Email](mailto:...)
+[Website](链接) · [Email](chen2799140721@outlook.com)
