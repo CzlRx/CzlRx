@@ -16,7 +16,7 @@
 
 - **[个人博客](https://github.com/CzlRx/CzlRx.github.io)** — 用 Next.js 静态导出的个人站点，记录后端工程、计算机基础和日常思考，已发布于 [czlrx.github.io](https://czlrx.github.io)
 - **[橙子商城 · 后端](https://github.com/CzlRx/OrangeMarketBackend)** — 电商练习项目的后端，Spring Boot + MyBatis-Plus + MySQL + Redis + RabbitMQ
-- **[lease](https://github.com/CzlRx/lease)** — 尚庭公寓租赁平台练习，Spring Boot、MyBatis-Plus、MySQL、Redis、MinIO
+- **lease · 尚庭公寓** — 租赁平台练习，Spring Boot、MyBatis-Plus、MySQL、Redis、MinIO（仓库目前未公开，故不放外链）
 
 ## 技术栈
 
